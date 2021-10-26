@@ -11,7 +11,7 @@ public static void main(String args[]) {
 	HdfcBank obj = new HdfcBank();
 	obj.balance=1000;
 	obj.checkBalance();
-	HdfcBank.ifsc =" HB0000020";
+	HdfcBank.ifsc =" HB00000202";
 	System.out.println(HdfcBank.ifsc);
 }
 
